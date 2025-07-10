@@ -12,3 +12,6 @@ This is depo to learn cloud computing
 
 ### Colab Example
 * This is a [notebook](Cloud_Computing.ipynb)
+
+### Images
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/0da8e5c2-ad20-4280-ada3-edbf2ba68205" />
